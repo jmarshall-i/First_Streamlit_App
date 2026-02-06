@@ -1,0 +1,99 @@
+item_name,category,stack_size,renewable
+Diamond,Material,64,No
+Coal,Material,64,Yes
+Oak Log,Wood,64,Yes
+Eye Of Ender,Mob Drop,16,No
+Iron Ingot,Material,64,No
+Gold Ingot,Material,64,No
+Copper Ingot,Material,64,No
+Raw Iron,Material,64,Yes
+Raw Gold,Material,64,Yes
+Raw Copper,Material,64,Yes
+Emerald,Material,64,No
+Lapis Lazuli,Material,64,Yes
+Redstone Dust,Material,64,Yes
+Nether Quartz,Material,64,Yes
+Amethyst Shard,Material,64,Yes
+Clay Ball,Material,64,Yes
+Flint,Material,64,Yes
+Obsidian,Material,64,Yes
+Crying Obsidian,Material,64,No
+Glowstone Dust,Material,64,Yes
+Netherrack,Material,64,Yes
+Basalt,Material,64,Yes
+Blackstone,Material,64,Yes
+Soul Sand,Material,64,Yes
+Soul Soil,Material,64,Yes
+Gravel,Material,64,Yes
+Sand,Material,64,Yes
+Red Sand,Material,64,Yes
+Dirt,Material,64,Yes
+Coarse Dirt,Material,64,Yes
+Podzol,Material,64,Yes
+Mycelium,Material,64,Yes
+Snowball,Material,16,Yes
+Ice,Material,64,Yes
+Packed Ice,Material,64,Yes
+Blue Ice,Material,64,No
+Dripstone,Material,64,Yes
+Pointed Dripstone,Material,64,Yes
+Rotten Flesh,Mob Drop,64,Yes
+Bone,Mob Drop,64,Yes
+Bone Meal,Mob Drop,64,Yes
+Arrow,Mob Drop,64,Yes
+String,Mob Drop,64,Yes
+Spider Eye,Mob Drop,64,Yes
+Gunpowder,Mob Drop,64,Yes
+Ender Pearl,Mob Drop,16,Yes
+Blaze Rod,Mob Drop,64,No
+Ghast Tear,Mob Drop,64,No
+Slimeball,Mob Drop,64,Yes
+Magma Cream,Mob Drop,64,No
+Phantom Membrane,Mob Drop,64,Yes
+Leather,Mob Drop,64,Yes
+Feather,Mob Drop,64,Yes
+Raw Chicken,Food,64,Yes
+Raw Beef,Food,64,Yes
+Raw Porkchop,Food,64,Yes
+Raw Mutton,Food,64,Yes
+Raw Rabbit,Food,64,Yes
+Rabbit Foot,Mob Drop,64,Yes
+Rabbit Hide,Mob Drop,64,Yes
+Ink Sac,Mob Drop,64,Yes
+Glow Ink Sac,Mob Drop,64,Yes
+Nautilus Shell,Mob Drop,64,No
+Shulker Shell,Mob Drop,64,No
+Wither Skeleton Skull,Mob Drop,64,No
+Dragon Breath,Mob Drop,64,No
+Wheat,Food,64,Yes
+Wheat Seeds,Material,64,Yes
+Beetroot,Food,64,Yes
+Beetroot Seeds,Material,64,Yes
+Carrot,Food,64,Yes
+Potato,Food,64,Yes
+Poisonous Potato,Food,64,Yes
+Apple,Food,64,Yes
+Sweet Berries,Food,64,Yes
+Glow Berries,Food,64,Yes
+Melon Slice,Food,64,Yes
+Melon Seeds,Material,64,Yes
+Pumpkin Seeds,Material,64,Yes
+Pumpkin,Material,64,Yes
+Sugar Cane,Material,64,Yes
+Bamboo,Material,64,Yes
+Cactus,Material,64,Yes
+Cocoa Beans,Material,64,Yes
+Kelp,Material,64,Yes
+Dried Kelp,Food,64,Yes
+Sea Pickle,Material,64,Yes
+Seagrass,Material,64,Yes
+Coral Fan,Material,64,No
+Coral,Material,64,No
+Coral Block,Material,64,No
+Vines,Material,64,Yes
+Lily Pad,Material,64,Yes
+Mushroom (Red),Food,64,Yes
+Mushroom (Brown),Food,64,Yes
+Nether Wart,Material,64,Yes
+Crimson Fungus,Material,64,Yes
+Warped Fungus,Material,64,Yes
